@@ -6,3 +6,9 @@ java
 php
 python
 so many
+
+Features of java
+1.simple
+2.robust
+3.secure
+4.platform independent.
